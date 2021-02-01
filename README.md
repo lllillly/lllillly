@@ -34,7 +34,7 @@ I am a high school student aspiring developer who is interested in web applicati
 </a>
 
 <a href="https://www.instagram.com/b_nijoyh/">
-    <img src="http://img.shields.io/badge/-Instagram-violet?style=flat&logo=Instagram&link=https://www.instagram.com/b_nijoyh/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&link=https://www.instagram.com/b_nijoyh/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="mailto:nijoyh0503@gmail.com">
