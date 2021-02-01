@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	
 </div>
   
-[![Tech Blog Badge](https://img.shields.io/github/followers/qkdgywls0503?style=social)](https://qkdgywls0503.github.io/)
+[![Tech Blog Badge](https://img.shields.io/github/followers/qkdgywls0503?style=social)](https://github.com/qkdgywls0503/)
 	
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat&logo=Instagram&link=https://www.instagram.com/b_nijoyh/)](https://www.instagram.com/b_nijoyh/)
 	
