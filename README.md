@@ -1,5 +1,3 @@
-### Hi Everyone 👋
-
 <div align=center>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
