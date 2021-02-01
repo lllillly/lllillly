@@ -29,8 +29,12 @@ I am a high school student aspiring developer who is interested in web applicati
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://www.facebook.com/Hj0503/">
-    <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Hj0503/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q">
+    <img src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=Instagram&link=https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://www.instagram.com/b_nijoyh/">
+    <img src="http://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&link=https://www.instagram.com/b_nijoyh/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="mailto:nijoyh0503@gmail.com">
