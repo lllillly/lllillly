@@ -11,13 +11,6 @@
 
 I am a high school student aspiring developer who is interested in web applications, front end, and back end, and is interested in creating real homepages.
 
-## Studied && Studying
-
-- Java
-- React.js
-- Node.js
-- ...
-
 <div align=center>
 
 [![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
