@@ -3,9 +3,6 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkdgywls0503%2Fhit-counter&count_bg=%23A192AC&title_bg=%23E9A5A5&icon=github.svg&icon_color=%23FFF7F7&title=hits&edge_flat=false" style="margin-left : 50px" />
 
-[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgywls0503&layout=compact&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
-
 </div>
 
 ## Study coding
@@ -43,6 +40,8 @@ I am a high school student aspiring developer who is interested in web applicati
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijoyh0503@gmail.com" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
+[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgywls0503&layout=compact&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 
 </div>
 
