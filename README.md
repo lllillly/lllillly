@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/qkdgywls0503?style=social" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
-[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=material-palenight)](https://github.com/qkdgywls0503/github-readme-stats)
+[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 
 </div>
 
