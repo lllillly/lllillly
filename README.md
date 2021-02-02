@@ -1,4 +1,6 @@
 <div align=center>
+	
+[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 
@@ -22,8 +24,6 @@ I am a high school student aspiring developer who is interested in web applicati
 - ...
 
 <div align=center>
-	
-[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503)](https://github.com/qkdgywls0503/github-readme-stats)
 		
 <a href="https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
