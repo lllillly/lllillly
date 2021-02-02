@@ -1,15 +1,14 @@
-## HJ_B'S GITBLOG <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+## HJ_B's GitBlog <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="height : auto; margin-left : 50px; margin-right : 20px;"/>
 
 
 <div align=center>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 
 <a href="https://github.com/qkdgywls0503/">
     <img src="https://img.shields.io/github/followers/qkdgywls0503?style=social" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
-[![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgywls0503&layout=compact)](https://github.com/qkdgywls0503/github-readme-stats)
 
 
