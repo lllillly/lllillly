@@ -5,6 +5,7 @@
 <div align=center>
 
 ## 👩🏻‍💻 Study coding
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkdgywls0503%2Fhit-counter&count_bg=%23A192AC&title_bg=%23E9A5A5&icon=github.svg&icon_color=%23FFF7F7&title=hits&edge_flat=false" style="margin-left : 50px" />
 
 웹 어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많으며 실 홈페이지를 만드는데 관심이 많은 개발자 지망 고등학생 입니다.
