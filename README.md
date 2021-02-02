@@ -7,7 +7,7 @@
 </a>
 
 [![qkdgywls0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkdgywls0503&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgywls0503)](https://github.com/qkdgywls0503/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkdgywls0503&layout=compact)](https://github.com/qkdgywls0503/github-readme-stats)
 
 </div>
 
