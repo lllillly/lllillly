@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=random&width=100%&height=300&section=header&text=HJ'sBLOG!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=HJ'sBLOG!&fontSize=90" />
 
 ## 🌟 HJ_B's GitBlog
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkdgywls0503%2Fhit-counter&count_bg=%23A192AC&title_bg=%23E9A5A5&icon=github.svg&icon_color=%23FFF7F7&title=hits&edge_flat=false" style="margin-left : 50px" />
