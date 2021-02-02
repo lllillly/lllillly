@@ -41,6 +41,5 @@ I am a high school student aspiring developer who is interested in web applicati
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijoyh0503@gmail.com" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=qkdgywls0503&repo=github-readme-stats&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 
 </div>
