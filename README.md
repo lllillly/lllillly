@@ -48,3 +48,5 @@ I am a high school student aspiring developer who is interested in web applicati
 
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=footer" />
