@@ -10,7 +10,7 @@
 
 웹 어플리케이션부터 프론트엔드, 백엔드 모두 관심이 많은 개발자 지망 고등학생 입니다.
 
-I am a high school student aspiring developer who is interested in web applications, front end, and back end.
+I am a high school student dreaming developer who is interested in web applications, front end, and back end.
 
 </div>
 <div align=center>
