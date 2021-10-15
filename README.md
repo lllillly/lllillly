@@ -15,8 +15,8 @@ I am a high school student dreaming developer who is interested in web applicati
 </div>
 <div align=center>
 
-[![lllillly's GitHub status](https://github-readme-stats.vercel.app/api?username=lllillly&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
-[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=lllillly&layout=compact&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
+[![lllillly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllillly&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllillly&layout=compact&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 	
 <a href="https://github.com/lllillly/">
     <img src="https://img.shields.io/github/followers/lllillly?style=social" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
