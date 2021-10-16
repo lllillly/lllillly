@@ -13,7 +13,7 @@
 </div>
 <div align=center>
 
-[![lllillly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllillly&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats) 
+<!-- [![lllillly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllillly&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllillly&layout=compact&show_icons=true&theme=dracula)](https://github.com/qkdgywls0503/github-readme-stats)
 	
 <a href="https://github.com/lllillly/">
