@@ -32,6 +32,7 @@
     <img src="http://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&link=https://www.instagram.com/lllillly_03/" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
+	
 <a href="mailto:nijoyh0503@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijoyh0503@gmail.com" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
