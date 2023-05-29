@@ -36,6 +36,20 @@
 <a href="mailto:nijoyh0503@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nijoyh0503@gmail.com" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
+	
+<div align="center">
+  <p>🛠 Tools 🛠</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-6DB33F?style=flat&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-7952B3?style=flat&logo=DataGrip&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpMyAdmin&logoColor=white"/>
+</div>
+
 
 </div>
 
