@@ -19,14 +19,6 @@
 <a href="https://github.com/lllillly/">
     <img src="https://img.shields.io/github/followers/lllillly?style=social" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
-		
-<a href="https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q">
-    <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCr5VGXtgjVRWQIDBv7fHe8Q" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
-<a href="https://www.facebook.com/Hj0503/">
-    <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Hj0503/" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
 
 <a href="https://www.instagram.com/lllillly_03/">
     <img src="http://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&link=https://www.instagram.com/lllillly_03/" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
