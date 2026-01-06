@@ -26,7 +26,6 @@
 	
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
-  <p>✨ Languages ✨</p>
 </div>
 <!-- java spring python mysql javascript nodejs react styledcomponents mongoDB graphql redux firebase -->
 <div align="center"> 
