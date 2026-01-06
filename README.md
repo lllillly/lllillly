@@ -44,10 +44,6 @@
 	<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white"/>
 </div>
 
-<div align="center">
-		![lllillly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllillly&show_icons=true&theme=onedark)
-</div>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer" />
