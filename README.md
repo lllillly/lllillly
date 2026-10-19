@@ -10,11 +10,6 @@
 
 </div>
 <div align=center>
-
-<a href="https://github.com/lllillly/">
-    <img src="https://img.shields.io/github/followers/lllillly?style=social" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
 <!-- <a href="https://www.instagram.com/lllillly_03/">
     <img src="http://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&link=https://www.instagram.com/lllillly_03/" style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a> -->
